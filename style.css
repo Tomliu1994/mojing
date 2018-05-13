@@ -29,9 +29,9 @@
     margin-left: 14.0625vw;
     width: 70.3125vw;
     color: #ffffff;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 20px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
 }
 .footer {
     margin-top: 87.5px;
@@ -44,7 +44,7 @@
 }
 .left p {
     color: #ffffff;
-    font-size: 16px;
+    font-size: 14px;
 }
 .right {
     float: right;
@@ -52,5 +52,5 @@
 }
 .right p {
     color: #ffffff;
-    font-size: 16px;
+    font-size: 14px;
 }
